@@ -1,1 +1,1 @@
-# Stablediffusion-CompatibleAMD-Build
+# Stablediffusion-CompatibleAMD-Build *python
